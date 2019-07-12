@@ -1,0 +1,24 @@
+{
+  "name": "branch-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/begin-again/branch-status.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/begin-again/branch-status/issues"
+  },
+  "homepage": "https://github.com/begin-again/branch-status#readme",
+  "dependencies": {
+    "ansi-colors": "^4.1.1",
+    "yargs": "^13.2.4"
+  }
+}
